@@ -1,0 +1,1352 @@
+﻿[
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/f6c4bc0c-f167-40b9-b808-c8f765b3940a/aurora-diamond-bangle.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "6f171bb356006944a00df5541eba43eccd5fe5d5c29c479644a9aaee7b5f7b525de81439de7e877090aa435609d1b19260212b8e14c15355c47bd4e4fca8bd288b60d9c5e08f8e0d14445c7cea0c0f950930e7ae2032067f60ff3c72a98d0431d116805ebb22e39814cfbc58027cb234856a56edd879f3d55dc27f2d038736b494fb8875a666a18e615d8209b4f331e4d568a19c5f1c682461c2ba6105bec866ceff8d19bd37f67384b289d35679f0c94a95352d5c39a701d9ed93740c95504e1dc13de7f114ec355563fad8f53ec05bb0b28648c85ec82f0f8df288e59bb1817ebe4da994c98fa7269637dfc065e1e972ef23a137d781b106bf6846735d2d45"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZjZjNGJjMGMtZjE2Ny00MGI5LWI4MDgtYzhmNzY1YjM5NDBhXC9hdXJvcmEtZGlhbW9uZC1iYW5nbGUuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "aurora-diamond-bangle",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/f6c4bc0c-f167-40b9-b808-c8f765b3940a/aurora-diamond-bangle.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\aurora-diamond-bangle.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/d7a3c0c2-b402-4ce2-89eb-1b609ad8e8bb/aurora-franco-chain-18k-yellow.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "39c08de30b8bfdfdb95da6eb03f06a410bd005b724ae87e97fc3d596df67df3309f0a40ecb9fa0a2f5f890cc777088f7df8fe3e8a79d72392d03ecd47e46aeab1403e882b67bcf67bf807f2d7dd57cc27f90d6401487340a8b5a5a22b340ca048d563a70aa762baff206d6e299db76c2ad0894742816394e416ba6e0ca90d032f22b7af206ca929e3a4f85d42e4b5da22623a95a27cdc6a967d64ef752adf95c2f26de0af6392cc90be6561ade660ad00eb7d3f7dd313838dab6489104096f96ad5fb6880eb9e51576dd03961b124206703219356b1a52d816c6cb502d2ad09c16d1b455f71742d254602cf936335595bfe34688e77043c81b05ae18afbd7bb0"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZDdhM2MwYzItYjQwMi00Y2UyLTg5ZWItMWI2MDlhZDhlOGJiXC9hdXJvcmEtZnJhbmNvLWNoYWluLTE4ay15ZWxsb3cuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "aurora-franco-chain-18k-yellow",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/d7a3c0c2-b402-4ce2-89eb-1b609ad8e8bb/aurora-franco-chain-18k-yellow.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\aurora-franco-chain-18k-yellow.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/fc88c864-5b17-4a44-bef2-37336fcbd8e5/aurora-oval-diamond-studs.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "90e47c14ba2f96c45f9d55ea2e5dce374faa57fb84eedf57e5c85db0c0e4113ca5b92d0f93dd91c0ca6246a2008f890b75e1a344bb19f5734ee402dd21d6f84a54e0f733358d549544a27fb72de6602ecbc2072d7bca90c846cf192a2cb7169dd151610da5976217bacee995a86a1298fbfb38ef72903c8bb5b33f8fc79a1b34b7fb78449b41dcec154d6e30f67edbb7dfbf42f16b0a2ca3124761761374f7382bfa7292cd1b215854fdfd6d5f5fb1e24391d01cdb25823d3b7e0e6eb224a9112d010da9cc9eab6e232a3f462383c6459375266e4f428fafedeece023dd07baaa3c38768624d2fc2aeb3e8576b4ce72489f9dd1d83483a243abfb4b92b83ad16"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZmM4OGM4NjQtNWIxNy00YTQ0LWJlZjItMzczMzZmY2JkOGU1XC9hdXJvcmEtb3ZhbC1kaWFtb25kLXN0dWRzLmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "aurora-oval-diamond-studs",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/fc88c864-5b17-4a44-bef2-37336fcbd8e5/aurora-oval-diamond-studs.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\aurora-oval-diamond-studs.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/954b23e9-4f0d-4305-8077-008fc6b3e10f/aurora-pave-diamond-choker.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "617b476fd398423eee5a4aca34d50a1ec08eb17434b9a7552d07b74c29cc635a31014aa4200bc8eb6b3fff8144a2f4ebe0af2e7377d2e429f46ee002be4f171df622b93a9a0548ff7d9e37d287c6df1d4779b40cc65b1500f2f4c585e00fc1a65180dc6ca6f37b892f28869b3fd772108a7eca759498aceb73f7520d82d073d8fde0861acc46bea39aabad29f7a0522bae3e966bd9227377a5193ddfe2c9b881fdb87fe5df035b956a4ebf01db4d0d498add378906fd888c3ec177e2a2ada3a8a7cec5546c200a4afdf56d5e6ad0a83c0c9ff710a6765b6ff96a9b032953e8353b9aa2971f2d891201f553ff9d331f81e333d5e20a4d61298e0f6580ab5a06cf"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvOTU0YjIzZTktNGYwZC00MzA1LTgwNzctMDA4ZmM2YjNlMTBmXC9hdXJvcmEtcGF2ZS1kaWFtb25kLWNob2tlci5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "aurora-pave-diamond-choker",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/954b23e9-4f0d-4305-8077-008fc6b3e10f/aurora-pave-diamond-choker.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\aurora-pave-diamond-choker.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/e2ba8a2e-a225-4923-8bfc-6da8e82c4af4/aurora-round-halo-diamond-ring.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "16502d99cc1aad880fe8543538f8e96cf46888f5d1e130f421d4a4db5bb328ed79d14a38e5edb1ea1c87301804d4f2d9fa4be7c776c659899fcef7c2897720dbfef9ce51870b81bbe1cb9e3f466f74bf1c462d56b97388a3ecbabdfcc161000ec8c32055844db79573da6d2adabb03776f6d2a49508dd2e3c1a11fe46a6dc73ed73bac340243e0946f86fbcc9832ca45d8efed9835a690f8d493c44019991793fe19604315a4341b2afad4512e5e10f76c2600c636b5a3803c3322aefa2bd92ffa308792efef9b488e035bbf1aa2cf7831c21cc9c81ec47ec867f2ff51fec053e7fef42aca028dcb3be1f6324b78a11ba37c5e9d215aa42d6e3a5f98c7ae8e31"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZTJiYThhMmUtYTIyNS00OTIzLThiZmMtNmRhOGU4MmM0YWY0XC9hdXJvcmEtcm91bmQtaGFsby1kaWFtb25kLXJpbmcuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "aurora-round-halo-diamond-ring",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/e2ba8a2e-a225-4923-8bfc-6da8e82c4af4/aurora-round-halo-diamond-ring.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\aurora-round-halo-diamond-ring.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/9b340ede-f726-401b-9bc6-7cc1f8708fa2/bezel-set-round-diamond-solitaire.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "8fff9b63628198fe0ab11b659f78444833dc0ee58890ea9704a893000c0492d84667f7398456c547808569ce9dd39c19ba1c614f70f6babf8c28d50d3ce24f57065aa7753b843602d24a9382a102c8ce24019fe706dc358d683c0d01b582ad391c011e0b1b3d3aaa2d9cde6f0ca104c511d20c44620710bef2f37f1485edce2d4c768ece986b34171028b84c0741d9730a351c2f0a331232d5247f73e53cd69111ec57e91923c3dc62ca8e774a774b327a345e5c866e8bcde51ae200359cdf2ad242778ca0d492f20aa2567b821c03a0a0174db75ad46820df1e18b79c299d234e47c640cdc2074cb068de0898de41e81fa6cf4479232d9103f15969caecc3f8"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvOWIzNDBlZGUtZjcyNi00MDFiLTliYzYtN2NjMWY4NzA4ZmEyXC9iZXplbC1zZXQtcm91bmQtZGlhbW9uZC1zb2xpdGFpcmUuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "bezel-set-round-diamond-solitaire",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/9b340ede-f726-401b-9bc6-7cc1f8708fa2/bezel-set-round-diamond-solitaire.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\bezel-set-round-diamond-solitaire.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/9ccb0e9b-d307-4347-9123-254f1ae482dd/cascade-diamond-chandelier-earrings.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "44724b984254efec77e887a31a32f79cdc126aa4981007b45aadd2b5e7673d6cecb5b33ac7e3b9cd67251dc75681413b96694edccb34c8c1c6152f385b6dd81cd1e2f23776646be5721b430a68c561b0c46e562797cbd05d04e3f016d347847633f8b7cda6c187eb6be1a306d59a6b0c8bdc3b58af8b12745bfb40e318ce80dd918fc85fa61c263345fe9d47dad8529eedf7a49abb34ffda113498166ad823cb49d4b408fef445f2af10cd30b926912004f90314866fbb80723eed1197efb6a996eac7c34e0520fa2def728130b88108c027082f38ee4ae8890d3bc9ca1ee1d5c2ba65fbcdb5bf2b2341c46972ffb67824f161bd44fa581e5102ac87eee2c39b"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvOWNjYjBlOWItZDMwNy00MzQ3LTkxMjMtMjU0ZjFhZTQ4MmRkXC9jYXNjYWRlLWRpYW1vbmQtY2hhbmRlbGllci1lYXJyaW5ncy5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "cascade-diamond-chandelier-earrings",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/9ccb0e9b-d307-4347-9123-254f1ae482dd/cascade-diamond-chandelier-earrings.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\cascade-diamond-chandelier-earrings.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/7167eb07-047b-4c40-9668-57fcef25669b/cascading-drop-diamond-necklace.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "9a5cc7472a7fe54bca14b91e03e89d33dc06390423f645d7dce8d4925063027b79436e8cc692ce1d2b18d221d4f4cfa340ab7aed0bccda4220aaab03360e447aa69fdc8e569844df104efe8497403c5e653cf40231513aa465e1ed71e066fa741322f70eecc5373f606c89261dfb8a0a2cc97921e2d8155b134ed8d97cf5eb20df17e205949f5f5339a0bd3c886993b43921cfed90ffab155297c9be8df28e9a05bc92ff820b5f9940a02fa57758b1e6f71a73924c2c57afd486d9b596d59b2c4f7b809c95ec1e41aa2ec610a4e469030a500147dbbc1b2c988b2aef36f838652badc9ea2af302bcadd32c0ca93686d60b53078172c40d337934463b948d43f8"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvNzE2N2ViMDctMDQ3Yi00YzQwLTk2NjgtNTdmY2VmMjU2NjliXC9jYXNjYWRpbmctZHJvcC1kaWFtb25kLW5lY2tsYWNlLmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "cascading-drop-diamond-necklace",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/7167eb07-047b-4c40-9668-57fcef25669b/cascading-drop-diamond-necklace.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\cascading-drop-diamond-necklace.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/36e494c3-9b13-4d02-ad72-c54a43e8035e/celestial-cascade-rivire-v2.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "191199cff085d2ae1f503b2e019545980c88e0309bb6d885e3baa10d4b585dd802e56e34f0d47c6f9a37f9e40c596602475432135ba92ab18066d9de7a2faff4474df70f692f80723bfe18fca3940631f11ad76d360d8915d1a9252706d4d3a14ce90242f4b9be65bf1e903ab7d134322bd54364080523719f04fda76fcb5cde146cfe5138a7309ce877c84e34c2d73b0d3fabf79ec13b0fa81f39e432a46f4e7977935c966dec383721518bf0f08d0739928ff80a16e7a2f2c4552b87bf5f6593eff2f69d371ebf4bc912c20b48fd162870606639a976a8ba488ab0dd34a1fb6371a6968f023efc0905af611b3f2848962c87f5ecf90e60749d5d6a1996fbbd"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMzZlNDk0YzMtOWIxMy00ZDAyLWFkNzItYzU0YTQzZTgwMzVlXC9jZWxlc3RpYWwtY2FzY2FkZS1yaXZpcmUtdjIuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "celestial-cascade-rivire",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/36e494c3-9b13-4d02-ad72-c54a43e8035e/celestial-cascade-rivire-v2.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\celestial-cascade-rivire.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/014feb39-b575-4529-a089-45a0ba355df8/celestial-east-west-oval-ring.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "a5fb69c00dfd8c51705691501ad33ffdab3a18f551e3a35f36c37abfdfd144a20f08fd804017e79a18e42b48e702f259ab78c48858a1ba6ecc0a173ee7c84b959fdbfae97e156c3339cbac041e978b34e44f555eec78fc56862d3f2071e5732df757bc8097f48ade4b1974a70bc531206726509ca7518c41c6fc24bb21ecd43e416cea455d112b584f8d1f8df774eca52aeb304641222551a5726e804074ccf40f21abdee1718974eca1976d7100f94a5b7b833c74a969a3bfcd998f276393441b100b1922ca39c3261af88d82e7b56722e4049377585e35b712b37301780e8b709013a1a0bc5e454cf322b917d614fb72c7dbca5355ec99d9f775b2c5d5640d"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMDE0ZmViMzktYjU3NS00NTI5LWEwODktNDVhMGJhMzU1ZGY4XC9jZWxlc3RpYWwtZWFzdC13ZXN0LW92YWwtcmluZy5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "celestial-east-west-oval-ring",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/014feb39-b575-4529-a089-45a0ba355df8/celestial-east-west-oval-ring.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\celestial-east-west-oval-ring.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/0d289f01-3db9-41c1-b65f-e1e7415c2473/constellation-diamond-anklet.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "54f8d0c590a77ac904dede7d6765945eed66f9e7ccd911ad2888dbda3ff10f0f791ebc6a45b95fd245386f3ae3ebef34ce069e8a02ecc6dbc79623fda1fabf9887ad7dffe40e20f46e457a587ada399159c17226d0871f7ada317295cc22ff895f53e3cc594dd4a19c259df798c880d926d3a83e969566c08527d6f47dd8935bc7878b255eb277b81a3c3e9461835d953c45b481344da2829e057c91f5002ca5221099879fa13a0499e75b653226864bec14b14d293188cb5d810fc34eed83fc0cbc5f0180e1d421caca0dbb15d9786bf5d89af5bf1799e2a3c4d6b35962dcf078605ebb257a0a8f6794e69685ea8660c818ad943e5d6a66706c567c61cc02e0"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMGQyODlmMDEtM2RiOS00MWMxLWI2NWYtZTFlNzQxNWMyNDczXC9jb25zdGVsbGF0aW9uLWRpYW1vbmQtYW5rbGV0LmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "constellation-diamond-anklet",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/0d289f01-3db9-41c1-b65f-e1e7415c2473/constellation-diamond-anklet.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\constellation-diamond-anklet.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/06d1b953-95f4-431f-8d78-66839655c3a5/constellation-diamond-star-pendant.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "525569b34f96ae8dfbcf2b14f36181ba6939271a3849c314b2b6585cf2366d6a0c572a6e9345aa97be0f7750e7849c0b369943c6af1e275ccc463ea6a65e0c44d71639880c8efc5dfcc3ca6035bbc44739f9eee0982fb42e7d29c72a39615762567a51777313dc154bbc8a3a589cfb4d714cc8ba73bf29eed92c90fe714cf436dbb922cd17a7de2e30b539b03eb0a6299b33f2c0609d9ba6155d1496627b7a79afe1dadc4226ff58ed8649ad375955b20a468e2a61a23ce3f58ac02726bcd00b01cc2cc10d9cfdf0ae668e4701295c214aed4ecc48e07753f96772e7e9ccd8f571a0e84540d75c8740236d903b4e629d310385e21c117bd76088d07feec8ea1d"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMDZkMWI5NTMtOTVmNC00MzFmLThkNzgtNjY4Mzk2NTVjM2E1XC9jb25zdGVsbGF0aW9uLWRpYW1vbmQtc3Rhci1wZW5kYW50LmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "constellation-diamond-star-pendant",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/06d1b953-95f4-431f-8d78-66839655c3a5/constellation-diamond-star-pendant.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\constellation-diamond-star-pendant.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/aa3fe1a1-7ab1-4209-9f99-2b02b0cce197/cushion-sapphire-halo-engagement-ring.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "0f1bc2664db65785d54a0af2df164f4d4f3cf6ce1d25cdb42e6bbd5b568cb3331a4fe919ad52aa1670099243737d6d73e905b6a0118c65a67c4b00d4bac6123fa012ade6570a84b939f3abb4ae2f349c202043791263c79678856f9a701728c412e06cba0b986ea2bd206b0859466a7ceb90d6ecc640a66e43047586aa881e9034ce74e5be2b08cd67f9426d89a8f8274fa169ad4432ebd3bf768e64a48f7e777b1f47ed6c45f1d030abaaa8c7a232246b0e4e7dbc99b3129ce146d565ca5d5f6e92ceead84eff862f66bafff5bdd2727aa83728ddc8ca282af80cf26d5a1c82e4452e805bbb15f1ec687cb331ca1ad882847bd2e16dae655653bb4c4ddc4426"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvYWEzZmUxYTEtN2FiMS00MjA5LTlmOTktMmIwMmIwY2NlMTk3XC9jdXNoaW9uLXNhcHBoaXJlLWhhbG8tZW5nYWdlbWVudC1yaW5nLmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "cushion-sapphire-halo-engagement-ring",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/aa3fe1a1-7ab1-4209-9f99-2b02b0cce197/cushion-sapphire-halo-engagement-ring.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\cushion-sapphire-halo-engagement-ring.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/0f405382-767f-477a-a6be-9aeae2c2551c/diamond-cut-box-chain-14k.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "47a918b8dc33e44bc2c5cf6cb0c1dd5afe46cca9c87edfbd51c08a9f33f0f339cd3050d2875c864c15bc52e2f065eebdd9109af78fb9c79df88cb5da234f2c8dbae6fcc27ab4cdf54c406e795a943480e2cc6c682b85844ae2d1237dd947148ad1fcf5b155b070d1cec58ad8cd5584337374421886616860cdfa4906cebe4dfc371e7f40cc1d379f53bdf7ee4308ad4638af135a0b17a0e31db3574bf8a60b262f3e878bc886ebbc26ed33149c05e0252bdff5435b828f95389c0bdb51365b7460ca74e84969f76a8f75b17a1542dcfafc3d4553b78b4520323f2fe17d90e919177720054c70d16ff731d76dbaa45118240a50db1a59bf2267f372586efba933"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMGY0MDUzODItNzY3Zi00NzdhLWE2YmUtOWFlYWUyYzI1NTFjXC9kaWFtb25kLWN1dC1ib3gtY2hhaW4tMTRrLmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "diamond-cut-box-chain-14k",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/0f405382-767f-477a-a6be-9aeae2c2551c/diamond-cut-box-chain-14k.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\diamond-cut-box-chain-14k.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/507e83dd-80dc-4c9b-95cf-77cfde0b851a/diamond-eternity-bezel-bracelet.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "ad34b65e885836fb3cd8b35a889419490aa0adf30b096ad0bb75c51e365c2f5c9210dba29cbac1bb34dfe18dfeda65ece971b982556e2f78e267635adb603acf049c421d0d8efeb11052a210a94ffc9f1a1aee6af91ea4c073c856cec40671eb2e08f8ecb7d571c977797b4a1a25972b912f6f6bf9cabbd8e7e49b21a595c04cb6b93dd90238ba118283c53607a8a743b09056adf5e782dc13d9843f8451fabb0ac4f25026c46aee261990ed31c3938d42f1992f28baaf7538e32c5d39f16fbe16f110705a37bfa4fda75c81bebcfb84e4945128de481590ecfef6e53989402d6121116926296abaef311e32a7c72684bd70bda893cb5c14771792dd715076db"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvNTA3ZTgzZGQtODBkYy00YzliLTk1Y2YtNzdjZmRlMGI4NTFhXC9kaWFtb25kLWV0ZXJuaXR5LWJlemVsLWJyYWNlbGV0LmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "diamond-eternity-bezel-bracelet",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/507e83dd-80dc-4c9b-95cf-77cfde0b851a/diamond-eternity-bezel-bracelet.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\diamond-eternity-bezel-bracelet.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/6c6e9dd9-ba02-4ade-b25d-821bdb865fe3/diamond-knife-edge-eternity-ring.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "34db5e0280f9a114c4692fc4b6d027545c767b88141aaa7f855c7135ad46c39a871b52769f52dc6f54e9386d03a640f8960520992df7752974ce3ced219a3259b651137c6b5ccbf71809058485008a3343a08195c2e36294f67dd4579a53aa7a02f76a9d8e5463310dbb1ca817b815bafb2277d2af454b6d2c27028e8071aef1dcfd2c6b9f336ccda6fbe29761a1c2a9564b96544ea37fcd04750e877f25e99529c3eb1ec45aac0a3d374f228986ad507c8431a690bd5dbd7e4cbc0e20d264743dcce538a5f448b5e46cc3e8e4c1cafa775360805b93cff02020d676a5c398cb7f4ed72fefd7f64228b29a0e04c3773b3190fed146097dd313c7d1472c43d788"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvNmM2ZTlkZDktYmEwMi00YWRlLWIyNWQtODIxYmRiODY1ZmUzXC9kaWFtb25kLWtuaWZlLWVkZ2UtZXRlcm5pdHktcmluZy5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "diamond-knife-edge-eternity-ring",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/6c6e9dd9-ba02-4ade-b25d-821bdb865fe3/diamond-knife-edge-eternity-ring.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\diamond-knife-edge-eternity-ring.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/c5081e1d-561d-4329-b183-2b289f8f6a2c/diamond-station-cable-chain-18k.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "805d4d08e245ee7d12875473ac1623e0e7d00b1ab70bcdedc67c4c73d841b08f6f7b76a88b990a9eedcb220aba1469e6962461d099b4005f0f26cdbb2b4008b63be726edd595cb4b09816bb6a80a0f8ab9284d2d5ef5ee27890df00a1c550086b1b14303ee5d531939127df6bfca6754c4832b15eb74af8a5618a9cac62e27701c35d1e43a69792e52cb40350ed796add11cf6b0ed6c31ce3e590a4ae4f06b518b78b90b4bcdd0b283b613e0aa445ce06d235a2a7401ba9f692393c333a3050607ebe0f7c6da937185ea4e6713129b3ae0f43db8d0e9666ee6aa4bf62aa0336f471aa2a394c4465800b168afcd15398fe6959d0f301f75cf183adc59885e405b"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvYzUwODFlMWQtNTYxZC00MzI5LWIxODMtMmIyODlmOGY2YTJjXC9kaWFtb25kLXN0YXRpb24tY2FibGUtY2hhaW4tMThrLmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "diamond-station-cable-chain-18k",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/c5081e1d-561d-4329-b183-2b289f8f6a2c/diamond-station-cable-chain-18k.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\diamond-station-cable-chain-18k.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/185b30a2-c0c5-4aa3-8e9b-269566f8d142/emerald-cut-diamond-solitaire-studs.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "6dbdab17bc366387df90c2b5c7a51f677faa080f68fcfe43605a82f86b7408aa14597114337aed8ac4a79ceff87e7b42980d9dc41c4b0a2f051795cbc270bb3083cbbb760c64ffbb7d3338df691a395a5d038e6179cee93183aa3d4ef1e8dcb6e6aa4cf08efd7dde41517f9d0e09c57e1f7afd6df94790b67eeb5958eab0e46f1d9bd7107ccb5a74abbac955e4a06959574bad3a8665980c8e045c8df37d1154be236c5c1580692a65def1bfbe2317a040f18e6b2ecfb6e51e14bde1eea2b36bdc230ba4087d1c30d4fbd1175dac8699437dba12465aebf26875bd312744c690f8e0bfb53100af64f70419c6224b9669e97e5365f746a123969cb1c136f5c1ae"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMTg1YjMwYTItYzBjNS00YWEzLThlOWItMjY5NTY2ZjhkMTQyXC9lbWVyYWxkLWN1dC1kaWFtb25kLXNvbGl0YWlyZS1zdHVkcy5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "emerald-cut-diamond-solitaire-studs",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/185b30a2-c0c5-4aa3-8e9b-269566f8d142/emerald-cut-diamond-solitaire-studs.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\emerald-cut-diamond-solitaire-studs.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/df9f3523-d6ed-45d3-9c5d-ed7a85ca88b9/emerald-cut-diamond-three-stone-ring.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "83de51084fbc2c1f248a3b9c9fe58066a0fde900713bb29a5440f8adaf60b20c02b9d2d2debf9aa48e1a395bff682d3142a52cda868fc2a50babcd9ac197d9fd3d88016c6aeb6ffc53fde7f47868afa601c78288419aab0dd6f84bfb1e59e5c6e77a31421f8ae2a9a371e04eae922e27a885142f9e1e995e231311fdcb4ea0480317356243e80f9cfc8e5154f55b1b8777f38ec893b26dfb3618da961f851ba77e60a29b1eef34ad7401d7f70c2d945be8a04a6c1462d8277d82be2d39a018edd3c7aac7d24f9fd763ce8e42c77cb61b80d4f922f71c2a2d14dcc05e93637242bde783dc59c750856d328dc7055eedfa8d9c272ac6ab80f3a8f4cb30809fd5ec"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZGY5ZjM1MjMtZDZlZC00NWQzLTljNWQtZWQ3YTg1Y2E4OGI5XC9lbWVyYWxkLWN1dC1kaWFtb25kLXRocmVlLXN0b25lLXJpbmcuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "emerald-cut-diamond-three-stone-ring",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/df9f3523-d6ed-45d3-9c5d-ed7a85ca88b9/emerald-cut-diamond-three-stone-ring.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\emerald-cut-diamond-three-stone-ring.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/1053f398-7aad-45e3-9654-879806cc621d/emerald-diamond-mixed-tennis-bracelet.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "a4f8d3f44f890f000bc2ed71c10af6f2fe3d829b1ab0f60840a912aca8c606da02495964765e30abe8d33c1c4681753b3f25eebb792df798e8cefc1c00e0fcd3f42ac9306ca29ad0af65be04511e22b7c3b2daf6d593542d8c794c01593742d81a033850639c4f23d0b9564f7aac56222b697346c8628460d7a83c2b4def063d335b70dee4cc38b98b31516b5ea1fcaf31e3e875c026663fa4d41ff24bb06ce3c86c546b996d24f28518c83bdf424d7544250d1d8bb2b4f66a24ef83aefb8f2c97924245cbe0f024830b39fd06426e774b0fc074666f564f3e33d88c9f8fd1c8abee2f7fb142e9f5ea32420b996149ddaca0a2fa3c5b41b6e35874f1223b1695"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMTA1M2YzOTgtN2FhZC00NWUzLTk2NTQtODc5ODA2Y2M2MjFkXC9lbWVyYWxkLWRpYW1vbmQtbWl4ZWQtdGVubmlzLWJyYWNlbGV0LmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "emerald-diamond-mixed-tennis-bracelet",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/1053f398-7aad-45e3-9654-879806cc621d/emerald-diamond-mixed-tennis-bracelet.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\emerald-diamond-mixed-tennis-bracelet.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/09c2f9cb-aa62-4f67-9fee-d8eaa99faf7a/emerald-trilogy-drop-pendant.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "686abda8bb48c01778a023f78130b06d6e6b10bd282856784b6860441613428847e6b48f0e7b0fa4aefea98a83aa75034c901e7747468442ec620dd46e4559e517a38406eb9851cc9aa50db1058e8042ed599c87cf0b219758c0cc9e5c99e017b781f38adba75e81952d294098c6b18b5344c6bf6798f85841c5ac869dc0db975e1e7346daa3291a8e1ea3948b8a9c84dc29e5b3f6f62e5252ade0ddf55bd0977b21109e8bcbbd86f173a157f6dd61846e815740bfd8cbad0e21c1d2275d23eb641746b26b1d9aded51ba6bec3500b76f0c94cbbdfc3ad1688765aff4119cff80b12d32d3ba50c8db8e1ccfe8e80ad10d75ff06e40c0a70961472a12fb2b3e6e"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMDljMmY5Y2ItYWE2Mi00ZjY3LTlmZWUtZDhlYWE5OWZhZjdhXC9lbWVyYWxkLXRyaWxvZ3ktZHJvcC1wZW5kYW50LmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "emerald-trilogy-drop-pendant",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/09c2f9cb-aa62-4f67-9fee-d8eaa99faf7a/emerald-trilogy-drop-pendant.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\emerald-trilogy-drop-pendant.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/fddc47d7-7410-4bcf-8387-d8fb0411d553/emerald-trilogy-pendant-necklace.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "976c4b54b25b3297a207a86299caf9557bbc9f0f294675caf044374052b0d1aa12609c8e38f619fbf873812cef5fa8492093e8c59f2088eba9249c1ccc16592ee868f5591be4e884e8d12c9580819cca76bb2d4c6fa840016418c3ffc78e97b3478bf36098f716bc9e90ca3a33ffe19d1b70f4cc6b896c72c78e3ddaa29497bdc5941e7fcc32fb21cee27bb4935ac4ac529aeb1505bb3160318ff4ab4b5f45a8c930ea7d5db5c9b8d1052da572a94ce009faadb513fe0d6c03d63a2b3902b70617a64f82c0a42a85cde859114ea99b97efa8c309386f6afaa6d9181b05510a9bde418cac45160d8c159202d507f39ec298b8b06d96593c55a7048b97395c6578"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZmRkYzQ3ZDctNzQxMC00YmNmLTgzODctZDhmYjA0MTFkNTUzXC9lbWVyYWxkLXRyaWxvZ3ktcGVuZGFudC1uZWNrbGFjZS5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "emerald-trilogy-pendant-necklace",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/fddc47d7-7410-4bcf-8387-d8fb0411d553/emerald-trilogy-pendant-necklace.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\emerald-trilogy-pendant-necklace.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/1c03f26a-51c8-42ea-bde7-b4998cb47214/eternal-halo-diamond-necklace.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "3e99f4a01bd56c5f92f0098a123bdaf91c19106a9ed0690ac1c3dd2a669ddb27b06c450f14cb3c45e99e41717e0d639fe79aa95908147c4a8dbf0fd5156c2965bf18e02845aa464ccbcccc7341042c40e74dc737885f41e6de710fabd3dc3edeb42eb104f13bd94b5c1183078c881770e70204aa688c713146a28e1c3bcf4886a94fce11c66cba59a330f294775efd923f0faedcb1b7a9115fbca80561b97a05ea2d611d82bf5347b36fdf3076d15c48e4ef6a487734687dbdc12fc5916c4f855bee88ab6bedb60dd28d42484078f18a7b5127acef24aaf22843b53be4b2e0c81db01f2e67691059e90d2ba3dfab7c28c4a4e706e68dd365335c70bbe8f96228"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMWMwM2YyNmEtNTFjOC00MmVhLWJkZTctYjQ5OThjYjQ3MjE0XC9ldGVybmFsLWhhbG8tZGlhbW9uZC1uZWNrbGFjZS5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "eternal-halo-diamond-necklace",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/1c03f26a-51c8-42ea-bde7-b4998cb47214/eternal-halo-diamond-necklace.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\eternal-halo-diamond-necklace.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/802c312c-2d4a-4288-a8be-d6cb478d24f8/frost-asscher-diamond-studs.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "6bbec759a0116b739225ba6e73f7ef76a8f19166b4a5fa04944fdc51c330b0ef955bba82bb482d3b118295cd89e1992e2dbce5446f1e0425488a4b8c2018dc11a5bc988da0d8de81dc391e019be038e0757c5b247bc8aa539ace76491fe48e477f9657815aad594eed1840f0c7554be0bd50708b5469aa4f7be2999da67111fbd48a8f558eb259b4e585de3e77228fb0a5d9e758ec76d8483e9ab531dbb4e7fffdcea72bfa58868a1c65848cab281524c6182c062914ea3bb99924cf6c720b0801132c89179c2d8790c8014b1dda143bdeb29dba1f30d04fa4326a011953d59e3b6a921a78a2f02ab32a4f2c500d28ee9ed44cd9a69e5b565cef0019a00f4cab"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvODAyYzMxMmMtMmQ0YS00Mjg4LWE4YmUtZDZjYjQ3OGQyNGY4XC9mcm9zdC1hc3NjaGVyLWRpYW1vbmQtc3R1ZHMuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "frost-asscher-diamond-studs",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/802c312c-2d4a-4288-a8be-d6cb478d24f8/frost-asscher-diamond-studs.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\frost-asscher-diamond-studs.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/9f68bccc-49d6-44a8-b1a3-dd606ab592bb/frost-princess-cut-solitaire.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "5d3a96ac96b34002db2a5ad78f48d05971510310b0e1db42e3d4960fdf44b7ddb84badb338ce1545eec154c4f0618fe41f6e5c47d2ca41d9ef80befae0a3cde79588452d50e2237237a1e86545f30ff44457a910dc4ede9aa67af9d258577c16acdabe6d1402b46d51ab4db834b43fb381e708f5b5299a6af371f23e6802c58a8de6eec6305c0a6bd4b38cfc907698ba67db3aa809be5a67d87fa2d1cc73594b9d56cf74d667bf3cd11f1f49b01902c2284db68ad4292f533da5b2c8a44711190a819f6f2453145f8821c490ffd385a491c6519a5761373f20731c7df197578e09d4f34750aa3412a7b223a09040ab3076239830ad5e997457e5404fb7cf0c86"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvOWY2OGJjY2MtNDlkNi00NGE4LWIxYTMtZGQ2MDZhYjU5MmJiXC9mcm9zdC1wcmluY2Vzcy1jdXQtc29saXRhaXJlLmpwZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDUxMVQxODI2MjlaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDUxMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA1LTEyVDE4OjI2OjI5WiJ9"
+                           }
+                       ],
+        "slug":  "frost-princess-cut-solitaire",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/9f68bccc-49d6-44a8-b1a3-dd606ab592bb/frost-princess-cut-solitaire.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\frost-princess-cut-solitaire.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/9d31b56a-4358-4238-bd3b-6f3dd9c17d84/grand-constellation-diamond-necklace.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "000a4c7e67c35e4cbfdd9f52dd1e580b27577f26a2190494a9ad92a1593fa8c9fc3086071022a39728635960f6689aef51d9e7ef2ecfa2ff33db7a3a301e8a2be64f0303bad23a50e8dbd8412711b9c6891e03e238979585f23f67b3f059aadc402407cacb1976ca25edfeac2de0794399f9f953b5d4fa218d7d383895a562845996a6c94434d9b425bfe34f1e029b2abb5980d494c049abb1cf3f8b8b0d95397c3eab40a40ce000a52bf6f2178fe244cfe2cb965f6b1b92659d84b1b594a763d231f98017ca4c1ff36d2f9d7bf20b2768deb2c2c9f484af9cbae7549ef32af9f0409c48410178765c7d58f89108cdda8d1fe501cb88a42a7bec4af592b7ca65"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvOWQzMWI1NmEtNDM1OC00MjM4LWJkM2ItNmYzZGQ5YzE3ZDg0XC9ncmFuZC1jb25zdGVsbGF0aW9uLWRpYW1vbmQtbmVja2xhY2UuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "grand-constellation-diamond-necklace",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/9d31b56a-4358-4238-bd3b-6f3dd9c17d84/grand-constellation-diamond-necklace.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\grand-constellation-diamond-necklace.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/26a2acb4-d3e5-450f-8a3e-5342f48f95b3/halo-round-brilliant-studs.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "8ce656d38526c6d8a6f7c4d3398ff8ce711308e56b64e1d19e9cbef90aca6b69a6f200fecec193d95b4bf998052b1994e1412f10b8ea05029492d10e29245ad9ed084c468a1d41245af8cb65825af9cdf7426c8c97e64e0acd20aba07f612a13fc1c6339aa8a73a76dcae25c671045aa0c223a8e9afda06501f14ed4b5ab490b6c0ba5e83fa85eb732c1b68d9589aae9d97646ce32ee44b3d61ac9f9586ae635f48d285f0fd4d467765fb7a58ae3d144d445cc0a97645db3f69c769ba812100e5325063d38b6c1dd3217a7e177c12c4bdf7294c84f2a9884d6e3cce7e6396c78919739fcd12b370012823361fbba3e612983cc3e8f4e0969b0c010a2943990e9"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvMjZhMmFjYjQtZDNlNS00NTBmLThhM2UtNTM0MmY0OGY5NWIzXC9oYWxvLXJvdW5kLWJyaWxsaWFudC1zdHVkcy5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "halo-round-brilliant-studs",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/26a2acb4-d3e5-450f-8a3e-5342f48f95b3/halo-round-brilliant-studs.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\halo-round-brilliant-studs.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/74abe575-d772-4950-90e7-f3c0706f279e/heart-cut-diamond-solitaire-pendant.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "9e9711b6bbd7cd1ad7c90138b968e654033485c97428f57d434e079db7b07697ad0dbe8c7b35cb7339e69484d16ffbad7be190b256ce802515346d4103a248b49e60942b91dc03a9da2f4cadcfccac6c6990c291166cbdc4e1ba3c03daeff522b0f909aaf26463181e638dcb3c9bff6ad6405e9625ebc873703e453f88dfe1583511763aded9c5050ed84b4295bf14ae1d6653e0d322449571dc0c46754908df1cd9909ecb71e6491193397962e4a71cdc71feb5c55f637f2dec390d70b7d83791bf249b41c17eeeef851172984c2323845d56a06b50af1f440611c60962a314510fa2138fd528c8efffc50fc0a8965df7aded6035a69d946f6612541063fdad"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvNzRhYmU1NzUtZDc3Mi00OTUwLTkwZTctZjNjMDcwNmYyNzllXC9oZWFydC1jdXQtZGlhbW9uZC1zb2xpdGFpcmUtcGVuZGFudC5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "heart-cut-diamond-solitaire-pendant",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/74abe575-d772-4950-90e7-f3c0706f279e/heart-cut-diamond-solitaire-pendant.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\heart-cut-diamond-solitaire-pendant.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/f0926dd3-cf14-40d7-8b9c-79cad29f49ff/heritage-18k-cuban-link-chain.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "9443a55455f61bf4fcc37d78d5567bd77ac0b3c5d4fa6dc388e52885ca7021ff4556694a200b6ce2d31c5adc6ee3ae7c33b386126e2a8dd630ba16806d925e96fcb70b66d57586c55802c3b85db62d59b1de0b52f1abd74ac481c02ea65c4680d5e342db891a2ee7bd0331cdfb71b9ad3d090525b18ed472fc16103ca70343291fa260b893624553137d76ce5ee0393fad8164a2fa4bc4e1ee1262c74669cff24b015a4652c91a6be915665897422a0331545a4e225a28d0890ccb185606fa904e740709c622595ef59b409b2e486957afe3b696cb91675daebf463007b7596382824b3317124de624f0dd0a437df20d49b415582b7ae8d10fe6ca06c2696322"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvZjA5MjZkZDMtY2YxNC00MGQ3LThiOWMtNzljYWQyOWY0OWZmXC9oZXJpdGFnZS0xOGstY3ViYW4tbGluay1jaGFpbi5qcGcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA1MTFUMTgyNjI5WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA1MTFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNS0xMlQxODoyNjoyOVoifQ=="
+                           }
+                       ],
+        "slug":  "heritage-18k-cuban-link-chain",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/f0926dd3-cf14-40d7-8b9c-79cad29f49ff/heritage-18k-cuban-link-chain.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\heritage-18k-cuban-link-chain.jpg"
+    },
+    {
+        "parameters":  [
+                           {
+                               "name":  "Content-Type",
+                               "value":  "image/jpeg"
+                           },
+                           {
+                               "name":  "success_action_status",
+                               "value":  "201"
+                           },
+                           {
+                               "name":  "acl",
+                               "value":  "private"
+                           },
+                           {
+                               "name":  "key",
+                               "value":  "tmp/64021102710/products/85d544ea-c364-485a-ada4-ca2c7065ec04/heritage-diamond-cocktail-ring.jpg"
+                           },
+                           {
+                               "name":  "x-goog-date",
+                               "value":  "20260511T182629Z"
+                           },
+                           {
+                               "name":  "x-goog-credential",
+                               "value":  "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260511/auto/storage/goog4_request"
+                           },
+                           {
+                               "name":  "x-goog-algorithm",
+                               "value":  "GOOG4-RSA-SHA256"
+                           },
+                           {
+                               "name":  "x-goog-signature",
+                               "value":  "5046d16c4fae0a1a65156595a1902b4eb39e0d92c07b458f0d4c9838b56e579dc4c53699a50680d9d4c9fb7bfbe4bb16e8b9cc13ee27604d70ed47d7f40d53f956cb09eec8b6fcb30fb5b651f4f023a8bab8c87c3e028a783627db9f1977072358d7ac56cd619616b554a079353710cc1d8ef28bf1d98fe48c609c9a08b79f732c32794e444013687eecf12ea65f2d136b649f991495f81d47160b86a1756e51e03332ec054389392bb870c46678429017c7e50017c95bcc63baa9a3c48f88302822d5beee72a93cc3c7127d792d03df476f30f9c0e0f2e0a52f25003155740df926fb13e7b15c6d25c937895e397764996edf5ee6ab5490a1736e36e98a8065"
+                           },
+                           {
+                               "name":  "policy",
+                               "value":  "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvanBlZyJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn0seyJhY2wiOiJwcml2YXRlIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSwyMDk3MTUyMF0seyJidWNrZXQiOiJzaG9waWZ5LXN0YWdlZC11cGxvYWRzIn0seyJrZXkiOiJ0bXBcLzY0MDIxMTAyNzEwXC9wcm9kdWN0c1wvODVkNTQ0ZWEtYzM2NC00ODVhLWFkYTQtY2EyYzcwNjVlYzA0XC9oZXJpdGFnZS1kaWFtb25kLWNvY2t0YWlsLXJpbmcuanBnIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNTExVDE4MjYyOVoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNTExXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDUtMTJUMTg6MjY6MjlaIn0="
+                           }
+                       ],
+        "slug":  "heritage-diamond-cocktail-ring",
+        "exists":  true,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/85d544ea-c364-485a-ada4-ca2c7065ec04/heritage-diamond-cocktail-ring.jpg",
+        "url":  "https://shopify-staged-uploads.storage.googleapis.com/",
+        "file":  "C:\\Users\\avata\\Desktop\\Jeweler Made Images\\heritage-diamond-cocktail-ring.jpg"
+    }
+]

@@ -1,0 +1,34 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 76
+      }
+    },
+    "custom_liquid_8p63LD": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div\n  id=\"jeweler-studio-widget\"\n  data-tenant-id=\"23fd2daf-3eb4-4e8f-9115-cfd257afae07\"\n  data-api-url=\"https://jeweler-studio-backend-prod.onrender.com\"\n  data-display=\"fullscreen\"\n  style=\"position:fixed;inset:0;width:100vw;height:100dvh;z-index:2147483638;background:#fff;overflow-y:auto;box-shadow:0 0 0 100vmax #fff;\"\n>\n  <div style=\"display:flex;align-items:center;justify-content:center;height:100%;font-family:sans-serif;color:#666;\">\n    Loading Design Studio...\n  </div>\n</div>\n<script src=\"https://embed.jewelerstudio.ai/embed.js\" async></script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_8p63LD"
+  ]
+}

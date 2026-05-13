@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: 'ss01', 'cv11';
+    letter-spacing: -0.005em;
+  }
+
+  body {
+    background-color: #08090D;
+    color: #F5F6F8;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    position: relative;
+  }
+
+  /* Ambient aurora glow — site-wide signature */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: -20%;
+    pointer-events: none;
+    z-index: 0;
+    background:
+      radial-gradient(50% 40% at 85% 15%, rgba(168, 100, 255, 0.16), transparent 60%),
+      radial-gradient(40% 35% at 10% 90%, rgba(80, 220, 255, 0.14), transparent 60%);
+    filter: blur(40px);
+  }
+
+  #root {
+    position: relative;
+    z-index: 1;
+  }
+
+  ::selection {
+    background: rgba(178, 152, 255, 0.25);
+    color: #fff;
+  }
+
+  * { box-sizing: border-box; }
+
+  .tabular { font-variant-numeric: tabular-nums; }
+}
+
+@layer components {
+  /* Mono eyebrow label */
+  .eyebrow {
+    @apply font-mono text-[11px] tracking-eyebrow uppercase text-smoke-2;
+  }
+
+  /* Mono eyebrow — aurora-violet brand accent variant */
+  .eyebrow-accent {
+    @apply font-mono text-[11px] tracking-eyebrow uppercase text-aurora-violet;
+  }
+
+  /* Serif display — the signature voice. Reserve for hero, climactic moments, brand promise, big stat numerals. */
+  .display {
+    font-family: 'Instrument Serif', 'New York', serif;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    line-height: 1.05;
+  }
+
+  /* Sans display — used for section headings, product/step titles, KPI numbers.
+     Pairs with .display (serif) and accent-italic for editorial-meets-tech voice. */
+  .display-sans {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    line-height: 1.05;
+  }
+
+  /* Italic accent inside headlines — aurora gradient */
+  .accent-italic {
+    font-family: 'Instrument Serif', 'New York', serif;
+    font-style: italic;
+    font-weight: 400;
+    background: linear-gradient(135deg, #6DD5FA, #B298FF);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* Buffer for italic glyph overhangs (descender feet, right-leaning serifs) */
+    padding-block: 0.12em;
+    padding-inline-end: 0.06em;
+  }
+
+  .accent-champagne {
+    font-family: 'Instrument Serif', 'New York', serif;
+    font-style: italic;
+    font-weight: 400;
+    color: #D4B87A;
+  }
+
+  /* Italic accent — red gradient for negative-state emphasis (problem/loss copy) */
+  .accent-italic-red {
+    font-family: 'Instrument Serif', 'New York', serif;
+    font-style: italic;
+    font-weight: 400;
+    background: linear-gradient(135deg, #FF6B6B 0%, #B82020 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-block: 0.12em;
+    padding-inline-end: 0.06em;
+  }
+
+  /* Italic accent — sans-serif (inherits surrounding font) + aurora gradient */
+  .accent-italic-sans {
+    font-style: italic;
+    background: linear-gradient(135deg, #6DD5FA, #B298FF);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-block: 0.08em;
+    padding-inline-end: 0.04em;
+  }
+
+  /* Panel: graphite card with hairline border */
+  .panel {
+    @apply bg-graphite border border-hairline rounded-2xl;
+  }
+
+  /* Pill — aurora ghost */
+  .label-pill {
+    @apply inline-flex items-center gap-2 font-mono text-[10.5px] tracking-eyebrow uppercase px-3 py-1.5 rounded-md border border-hairline-2 text-smoke;
+  }
+
+  /* Primary CTA — dark interior with animated aurora gradient border (premium tech feel) */
+  .btn-aurora-outline {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    color: #F5F6F8;
+    background:
+      linear-gradient(#0A0B14, #0A0B14) padding-box,
+      linear-gradient(135deg, #6DD5FA, #B298FF, #6DD5FA) border-box;
+    background-size: auto, 200% 200%;
+    background-position: 0 0, 0% 0%;
+    border: 2px solid transparent;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(.2,.8,.2,1), box-shadow 0.25s;
+    box-shadow: 0 4px 18px -6px rgba(178,152,255,0.45), 0 0 0 1px rgba(178,152,255,0.15);
+    letter-spacing: -0.005em;
+    animation: btn-aurora-shift 4s linear infinite;
+  }
+  .btn-aurora-outline:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 24px -6px rgba(178,152,255,0.65), 0 0 0 1px rgba(178,152,255,0.30);
+  }
+  @keyframes btn-aurora-shift {
+    0%   { background-position: 0 0, 0% 0%; }
+    100% { background-position: 0 0, 200% 0%; }
+  }
+
+  /* Primary CTA — aurora gradient */
+  .btn-aurora {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    color: #0A0B10;
+    background: linear-gradient(135deg, #6DD5FA, #B298FF);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(.2,.8,.2,1), box-shadow 0.25s;
+    box-shadow: 0 4px 18px -6px rgba(178, 152, 255, 0.45);
+    letter-spacing: -0.005em;
+    border: none;
+  }
+  .btn-aurora:hover { transform: translateY(-1px); box-shadow: 0 8px 24px -6px rgba(178, 152, 255, 0.55); }
+
+  /* Ice CTA — stark high-contrast */
+  .btn-ice {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    background: #F5F6F8;
+    color: #08090D;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(.2,.8,.2,1);
+    border: none;
+    letter-spacing: -0.005em;
+  }
+  .btn-ice:hover { transform: translateY(-1px); }
+
+  /* Ghost CTA */
+  .btn-ghost {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    background: transparent;
+    color: #F5F6F8;
+    border: 1px solid #262A35;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    letter-spacing: -0.005em;
+  }
+  .btn-ghost:hover { background: rgba(255,255,255,0.03); border-color: #B298FF; color: #B298FF; }
+
+  /* Primary CTA on light surfaces — dark on white */
+  .btn-ink {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    background: #0A0B14;
+    color: #F5F6F8;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(.2,.8,.2,1), box-shadow 0.25s;
+    border: none;
+    letter-spacing: -0.005em;
+    box-shadow: 0 4px 14px -6px rgba(10,11,20,0.45);
+  }
+  .btn-ink:hover { transform: translateY(-1px); box-shadow: 0 8px 20px -6px rgba(10,11,20,0.55); }
+
+  /* Ghost CTA on light surfaces */
+  .btn-ghost-light {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    background: transparent;
+    color: #0A0B14;
+    border: 1px solid #D6D9E0;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    letter-spacing: -0.005em;
+  }
+  .btn-ghost-light:hover { background: rgba(178,152,255,0.06); border-color: #B298FF; color: #B298FF; }
+}
+
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+
+  /* Slightly-darker-white tint for alternating section rhythm on light pages.
+     Sits between bg-paper (#F5F6FA) and bg-relief-light. Use on every other
+     section to create visual cadence. */
+  .bg-paper-tinted {
+    background-color: #EEF0F4;
+  }
+
+  /* Relief surface — a lifted, subtly-warmer panel to break up long dark scroll */
+  .bg-relief {
+    background:
+      radial-gradient(60% 50% at 85% 0%, rgba(168, 152, 255, 0.10), transparent 60%),
+      radial-gradient(45% 40% at 10% 100%, rgba(80, 213, 250, 0.10), transparent 60%),
+      linear-gradient(180deg, #0E1017 0%, #10131B 50%, #0E1017 100%);
+    position: relative;
+  }
+  .bg-relief::before,
+  .bg-relief::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1px;
+    pointer-events: none;
+    background: linear-gradient(90deg, transparent, rgba(168,100,255,0.30), rgba(80,220,255,0.30), transparent);
+  }
+  .bg-relief::before { top: 0; }
+  .bg-relief::after  { bottom: 0; }
+
+  /* Light analogue of bg-relief — for ProductSolution / HowItWorks / FinalCTA on light page */
+  .bg-relief-light {
+    background:
+      radial-gradient(60% 50% at 85% 0%, rgba(178, 152, 255, 0.10), transparent 60%),
+      radial-gradient(45% 40% at 10% 100%, rgba(109, 213, 250, 0.08), transparent 60%),
+      linear-gradient(180deg, #F8F9FC 0%, #F2F3F8 50%, #F8F9FC 100%);
+    position: relative;
+  }
+  .bg-relief-light::before,
+  .bg-relief-light::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1px;
+    pointer-events: none;
+    background: linear-gradient(90deg, transparent, rgba(178,152,255,0.40), rgba(109,213,250,0.40), transparent);
+  }
+  .bg-relief-light::before { top: 0; }
+  .bg-relief-light::after  { bottom: 0; }
+
+  /* Aurora gradient text utility */
+  .aurora-text {
+    background: linear-gradient(135deg, #6DD5FA, #B298FF);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Hairline rule */
+  .rule {
+    height: 1px;
+    background: #1E212A;
+  }
+
+  .rule-aurora {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(80, 220, 255, 0.40), rgba(168, 100, 255, 0.45), transparent);
+  }
+
+  /* Solid 1.5px aurora bar — used as a card/panel top accent (vs. rule-aurora which fades) */
+  .accent-line {
+    height: 1.5px;
+    background: linear-gradient(90deg, #6DD5FA, #B298FF);
+  }
+
+  /* Animated underline for hero accent word */
+  .underline-sweep {
+    position: relative;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .underline-sweep::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0.02em;
+    height: 3px;
+    border-radius: 2px;
+    background: linear-gradient(90deg, #6DD5FA, #B298FF);
+    transform-origin: left center;
+    transform: scaleX(0);
+    animation: underline-draw 1.2s cubic-bezier(.2,.8,.2,1) 0.9s forwards,
+               underline-shimmer 3.2s ease-in-out 2.1s infinite;
+    box-shadow: 0 0 12px rgba(178, 152, 255, 0.45);
+  }
+
+  @keyframes underline-draw {
+    from { transform: scaleX(0); }
+    to   { transform: scaleX(1); }
+  }
+
+  @keyframes underline-shimmer {
+    0%, 100% { filter: brightness(1); box-shadow: 0 0 12px rgba(178, 152, 255, 0.4); }
+    50%      { filter: brightness(1.35); box-shadow: 0 0 18px rgba(178, 152, 255, 0.7); }
+  }
+
+  @keyframes chip-pop {
+    0%, 100%   { transform: translateY(0) scale(1);       opacity: 0.55; }
+    15%, 30%   { transform: translateY(-2px) scale(1.04); opacity: 1;    }
+  }
+
+  @keyframes pulse-glow {
+    0%, 100% { opacity: 0.7; transform: scale(1);    }
+    50%      { opacity: 1;   transform: scale(1.08); }
+  }
+
+  @keyframes gem-rotate {
+    from { transform: rotate(0deg);   }
+    to   { transform: rotate(360deg); }
+  }
+
+  @keyframes dot-blink {
+    0%, 100% { opacity: 0.25; transform: scale(0.9); }
+    50%      { opacity: 1;    transform: scale(1.3); }
+  }
+
+  @keyframes ring-spin {
+    from { transform: rotateY(0deg);   }
+    to   { transform: rotateY(360deg); }
+  }
+
+  @keyframes swatch-bob {
+    0%, 100% { transform: translateY(0);    }
+    50%      { transform: translateY(-3px); }
+  }
+}

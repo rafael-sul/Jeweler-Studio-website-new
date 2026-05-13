@@ -1,0 +1,56 @@
+﻿[
+    {
+        "ok":  true,
+        "status":  201,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/3dd1ff09-30ab-43fd-b8cd-2c29521c4140/card-necklaces.jpg",
+        "slug":  "card-necklaces",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "dcd2ec22-ccd7-465e-8e08-8cdcb030f4a0",
+        "PSShowComputerName":  false
+    },
+    {
+        "ok":  true,
+        "status":  201,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/b2f2e6fe-abfe-4da9-bd2e-fd322075d6c3/card-rings.jpg",
+        "slug":  "card-rings",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "6dbd1d10-429c-4214-a877-47920512f332",
+        "PSShowComputerName":  false
+    },
+    {
+        "ok":  true,
+        "status":  201,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/681fdf46-702b-4ec5-a530-e11b5f4ccb8a/card-earrings.jpg",
+        "slug":  "card-earrings",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "1c2e440d-3a0b-45fa-9c05-d4ac58ca9a6d",
+        "PSShowComputerName":  false
+    },
+    {
+        "ok":  true,
+        "status":  201,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/64d45c68-0a96-4b18-8ed1-b35e9f0f709c/card-pendants.jpg",
+        "slug":  "card-pendants",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "59b32507-5ddf-4d44-8a3f-d82ab69e9615",
+        "PSShowComputerName":  false
+    },
+    {
+        "ok":  true,
+        "status":  201,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/6ca457ae-b5ff-4d07-b6c2-d6c83a502e7e/card-chains.jpg",
+        "slug":  "card-chains",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "b8bd6a09-729c-4687-9195-8d4dda274890",
+        "PSShowComputerName":  false
+    },
+    {
+        "ok":  true,
+        "status":  201,
+        "resourceUrl":  "https://shopify-staged-uploads.storage.googleapis.com/tmp/64021102710/products/8ed7886a-4078-48a8-b1ff-71f0ef6ab209/card-accessories.jpg",
+        "slug":  "card-accessories",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "05938d1d-5bcc-4973-bf0a-00d465cb0597",
+        "PSShowComputerName":  false
+    }
+]

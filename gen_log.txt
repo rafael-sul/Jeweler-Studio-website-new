@@ -1,0 +1,90 @@
+﻿Started 2026-05-11T14:41:37.9053598-04:00
+Total products to generate: 87
+[1/87] SKIP (exists): celestial-cascade-rivire
+[2/87] SKIP (exists): sapphire-cluster-tennis-necklace
+[3/87] SKIP (exists): aurora-pave-diamond-choker
+[4/87] SKIP (exists): emerald-trilogy-pendant-necklace
+[5/87] SKIP (exists): eternal-halo-diamond-necklace
+[6/87] SKIP (exists): ruby-diamond-lariat-y-necklace
+[7/87] SKIP (exists): whisper-bezel-diamond-station
+[8/87] SKIP (exists): pear-cut-sapphire-drop-necklace
+[9/87] SKIP (exists): grand-constellation-diamond-necklace
+[10/87] SKIP (exists): marquise-emerald-diamond-riviera
+[11/87] SKIP (exists): verona-twisted-rope-necklace
+[12/87] SKIP (exists): tahitian-pearl-diamond-pendant-necklace
+[13/87] SKIP (exists): heritage-mixed-gemstone-necklace
+[14/87] SKIP (exists): pave-heart-diamond-solitaire-necklace
+[15/87] SKIP (exists): tiered-brilliant-diamond-necklace
+[16/87] SKIP (exists): oval-yellow-diamond-halo-necklace
+[17/87] SKIP (exists): linked-bezel-diamond-necklace
+[18/87] SKIP (exists): cascading-drop-diamond-necklace
+[19/87] SKIP (exists): royal-sapphire-cluster-necklace
+[20/87] SKIP (exists): multi-color-tourmaline-statement-necklace
+[21/87] OK solitaire-whisper-round-brilliant-ring (320632 bytes)
+[22/87] OK emerald-cut-diamond-three-stone-ring (345873 bytes)
+[23/87] OK verona-pave-eternity-band (364050 bytes)
+[24/87] OK cushion-sapphire-halo-engagement-ring (490418 bytes)
+[25/87] OK pavilion-asscher-diamond-ring (490436 bytes)
+[26/87] OK marquise-ruby-diamond-cluster-ring (510870 bytes)
+[27/87] OK twisted-vine-diamond-ring (483222 bytes)
+[28/87] OK pear-cut-diamond-bypass-ring (475407 bytes)
+[29/87] OK celestial-east-west-oval-ring (436445 bytes)
+[30/87] OK yellow-diamond-cushion-halo-ring (545599 bytes)
+[31/87] OK heritage-diamond-cocktail-ring (516742 bytes)
+[32/87] OK sapphire-diamond-toi-et-moi-ring (401766 bytes)
+[33/87] OK frost-princess-cut-solitaire (443491 bytes)
+[34/87] OK trilogy-emerald-step-cut-ring (367917 bytes)
+[35/87] OK vintage-filigree-diamond-ring (514176 bytes)
+[36/87] OK pave-band-stack-trio-ring (555824 bytes)
+[37/87] OK aurora-round-halo-diamond-ring (477599 bytes)
+[38/87] OK bezel-set-round-diamond-solitaire (392717 bytes)
+[39/87] OK statement-oval-sapphire-cocktail-ring (592262 bytes)
+[40/87] OK diamond-knife-edge-eternity-ring (451064 bytes)
+[41/87] SKIP (exists): solitaire-bezel-diamond-pendant
+[42/87] SKIP (exists): pear-cut-diamond-halo-pendant
+[43/87] SKIP (exists): emerald-trilogy-drop-pendant
+[44/87] SKIP (exists): heart-cut-diamond-solitaire-pendant
+[45/87] SKIP (exists): whisper-marquise-diamond-pendant
+[46/87] SKIP (exists): sapphire-cluster-heritage-pendant
+[47/87] SKIP (exists): tahitian-pearl-drop-pendant
+[48/87] SKIP (exists): round-diamond-floating-halo-pendant
+[49/87] SKIP (exists): verona-cross-diamond-pendant
+[50/87] SKIP (exists): ruby-diamond-heart-locket-pendant
+[51/87] SKIP (exists): constellation-diamond-star-pendant
+[52/87] SKIP (exists): oval-emerald-bezel-solo-pendant
+[53/87] SKIP (exists): perfect-pear-diamond-drop-earrings
+[54/87] SKIP (exists): halo-round-brilliant-studs
+[55/87] SKIP (exists): emerald-cut-diamond-solitaire-studs
+[56/87] SKIP (exists): cascade-diamond-chandelier-earrings
+[57/87] SKIP (exists): sapphire-drop-pendant-earrings
+[58/87] SKIP (exists): frost-asscher-diamond-studs
+[59/87] SKIP (exists): marquise-diamond-climber-earrings
+[60/87] SKIP (exists): whisper-pave-hoop-earrings
+[61/87] SKIP (exists): tahitian-pearl-diamond-drop-earrings
+[62/87] SKIP (exists): aurora-oval-diamond-studs
+[63/87] SKIP (exists): ruby-halo-drop-earrings
+[64/87] SKIP (exists): linear-bezel-diamond-drop
+[65/87] SKIP (exists): three-stone-diamond-drop-earrings
+[66/87] SKIP (exists): verona-twisted-hoop-earrings
+[67/87] SKIP (exists): yellow-diamond-cushion-halo-studs
+[68/87] SKIP (exists): heritage-18k-cuban-link-chain
+[69/87] SKIP (exists): solid-gold-rope-chain-14k
+[70/87] SKIP (exists): verona-18k-figaro-chain
+[71/87] SKIP (exists): diamond-cut-box-chain-14k
+[72/87] SKIP (exists): aurora-franco-chain-18k-yellow
+[73/87] SKIP (exists): pave-diamond-tennis-chain-14k-white
+[74/87] SKIP (exists): twisted-foxtail-chain-14k-yellow
+[75/87] SKIP (exists): solid-gold-wheat-chain-18k-rose
+[76/87] SKIP (exists): mariner-anchor-link-chain-14k
+[77/87] SKIP (exists): round-snake-chain-18k-white
+[78/87] SKIP (exists): statement-curb-link-chain-14k-yellow
+[79/87] SKIP (exists): diamond-station-cable-chain-18k
+[80/87] SKIP (exists): verona-tennis-bracelet-round-diamond
+[81/87] SKIP (exists): pave-diamond-cuff-bracelet-18k
+[82/87] SKIP (exists): aurora-diamond-bangle
+[83/87] SKIP (exists): sapphire-diamond-charm-bracelet
+[84/87] SKIP (exists): heritage-signet-diamond-cufflinks
+[85/87] SKIP (exists): diamond-eternity-bezel-bracelet
+[86/87] SKIP (exists): constellation-diamond-anklet
+[87/87] SKIP (exists): emerald-diamond-mixed-tennis-bracelet
+Finished 2026-05-11T14:47:27.0881124-04:00 ok=20 fail=0 skipped=67

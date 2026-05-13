@@ -1,0 +1,1055 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Jeweler Studio · Brand Kit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700;800&family=Geist+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --obsidian: #08090D;
+    --graphite: #13151C;
+    --graphite-2: #181B24;
+    --hairline: #1E212A;
+    --hairline-2: #262A35;
+    --ice: #F5F6F8;
+    --smoke: #8A8E98;
+    --smoke-2: #5C6068;
+    --champagne: #D4B87A;
+    --paper: #F5F6FA;
+    --paper-2: #FFFFFF;
+    --paper-3: #FAFBFD;
+    --ink: #0A0B14;
+    --ink-2: #1A1F2E;
+    --ink-3: #3A3F4D;
+    --ink-mute: #6B7080;
+    --ink-faint: #9CA0AC;
+    --rule: #E8EAEE;
+    --rule-2: #D6D9E0;
+    --aurora-cyan: #6DD5FA;
+    --aurora-violet: #B298FF;
+    --aurora-iris: #E0E7FF;
+    --ok: #6BD3A3;
+    --bad: #E87A6D;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: 'ss01', 'cv11';
+  }
+
+  body {
+    background: var(--obsidian);
+    color: var(--ice);
+    font-family: 'Geist', system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+    letter-spacing: -0.005em;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 80px;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: -10%;
+    pointer-events: none;
+    z-index: 0;
+    background:
+      radial-gradient(50% 40% at 85% 15%, rgba(168,100,255,0.16), transparent 60%),
+      radial-gradient(40% 35% at 10% 90%, rgba(80,220,255,0.14), transparent 60%);
+    filter: blur(40px);
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 32px;
+  }
+
+  .display {
+    font-family: 'Instrument Serif', serif;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    line-height: 1.05;
+  }
+  .display-sans {
+    font-family: 'Geist', sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    line-height: 1.05;
+  }
+  .mono {
+    font-family: 'Geist Mono', ui-monospace, monospace;
+    font-feature-settings: 'tnum';
+  }
+  .eyebrow {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--smoke-2);
+  }
+  .eyebrow-accent {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+  }
+
+  .accent-italic {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-weight: 400;
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-block: 0.12em;
+    padding-inline-end: 0.06em;
+  }
+  .accent-italic-red {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-weight: 400;
+    background: linear-gradient(135deg, #FF6B6B, #B82020);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-block: 0.12em;
+    padding-inline-end: 0.06em;
+  }
+  .accent-italic-sans {
+    font-style: italic;
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-block: 0.08em;
+  }
+  .accent-champagne {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    color: var(--champagne);
+  }
+  .aurora-text {
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .tabular { font-variant-numeric: tabular-nums; }
+
+  /* HEADER */
+  header {
+    margin-bottom: 96px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  .brand-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .brand-polygon {
+    width: 52px;
+    height: 52px;
+  }
+  .brand-row .name {
+    font-family: 'Geist', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+    letter-spacing: -0.025em;
+  }
+  header h1 {
+    font-family: 'Instrument Serif', serif;
+    font-weight: 400;
+    font-size: clamp(56px, 8vw, 96px);
+    line-height: 0.95;
+    letter-spacing: -0.015em;
+    margin-top: 18px;
+  }
+  header p {
+    color: var(--smoke);
+    max-width: 50ch;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-top: 22px;
+  }
+  .header-meta {
+    text-align: right;
+    color: var(--smoke-2);
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    line-height: 2;
+  }
+
+  section {
+    margin-bottom: 96px;
+    position: relative;
+  }
+  section + section::before {
+    content: '';
+    position: absolute;
+    top: -48px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--hairline-2), transparent);
+  }
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 32px;
+    margin-bottom: 36px;
+    flex-wrap: wrap;
+  }
+  .section-head h2 {
+    font-family: 'Geist', sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    letter-spacing: -0.025em;
+    line-height: 1.05;
+  }
+  .section-head .num {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--aurora-violet);
+    font-weight: 700;
+  }
+  .section-head .desc {
+    color: var(--smoke);
+    font-size: 14px;
+    max-width: 38ch;
+  }
+
+  /* TYPOGRAPHY */
+  .type-grid {
+    display: grid;
+    gap: 8px;
+  }
+  .type-card {
+    background: var(--graphite);
+    border: 1px solid var(--hairline);
+    border-radius: 16px;
+    padding: 36px;
+    transition: border-color 0.3s;
+  }
+  .type-card:hover { border-color: var(--hairline-2); }
+  .type-card .label {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 24px;
+    gap: 24px;
+  }
+  .type-card .label .name {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--aurora-violet);
+    font-weight: 700;
+  }
+  .type-card .label .meta {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    color: var(--smoke-2);
+    letter-spacing: 0.05em;
+  }
+  .type-card .sample {
+    color: var(--ice);
+  }
+  .type-card .sample-large {
+    font-size: 64px;
+    line-height: 1.05;
+  }
+  .type-card .sample-mid { font-size: 28px; }
+  .type-card .sample-small { font-size: 14px; line-height: 1.6; color: var(--smoke); }
+
+  .weight-grid {
+    display: grid;
+    grid-template-columns: 100px 1fr 80px;
+    gap: 24px;
+    margin-top: 24px;
+    padding-top: 24px;
+    border-top: 1px solid var(--hairline);
+    align-items: baseline;
+  }
+  .weight-grid .w {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    color: var(--smoke-2);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .weight-grid .glyph {
+    font-size: 22px;
+    color: var(--ice);
+  }
+  .weight-grid .num {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    color: var(--smoke);
+    text-align: right;
+    letter-spacing: 0.05em;
+  }
+
+  /* COLOR */
+  .palette {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 8px;
+  }
+  .swatch {
+    background: var(--graphite);
+    border: 1px solid var(--hairline);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+  .swatch .chip {
+    height: 100px;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .swatch .info {
+    padding: 14px 16px 16px;
+  }
+  .swatch .info .name {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    color: var(--ice);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .swatch .info .hex {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10.5px;
+    color: var(--smoke-2);
+    letter-spacing: 0.05em;
+    margin-top: 4px;
+  }
+  .palette-group { margin-bottom: 28px; }
+  .palette-group .head {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    color: var(--smoke);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  /* AURORA HERO TILE — special big swatch */
+  .aurora-hero {
+    grid-column: span 2;
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+    border: none;
+    color: var(--obsidian);
+  }
+  .aurora-hero .chip {
+    height: 100px;
+    border: none;
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+  }
+  .aurora-hero .info { background: var(--graphite); border-top: 1px solid var(--hairline-2); }
+
+  /* VOICE */
+  .voice-box {
+    background: var(--graphite);
+    border: 1px solid var(--hairline);
+    border-radius: 18px;
+    padding: 48px 40px;
+  }
+  .voice-line {
+    font-family: 'Geist', sans-serif;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 1.15;
+    letter-spacing: -0.025em;
+    color: var(--ice);
+    margin-bottom: 28px;
+  }
+  .voice-line:last-child { margin-bottom: 0; }
+  .voice-meta {
+    color: var(--smoke-2);
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    display: block;
+  }
+
+  /* MARK SECTION */
+  .marks {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 8px;
+  }
+  .mark-card {
+    background: var(--graphite);
+    border: 1px solid var(--hairline);
+    border-radius: 16px;
+    padding: 56px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    min-height: 320px;
+  }
+  .mark-row {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+  }
+
+  /* ICONS */
+  .icon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 8px;
+  }
+  .icon-tile {
+    background: var(--graphite);
+    border: 1px solid var(--hairline);
+    border-radius: 14px;
+    padding: 24px 16px 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    transition: border-color 0.3s, transform 0.3s;
+  }
+  .icon-tile:hover { border-color: var(--aurora-violet); transform: translateY(-2px); }
+  .icon-tile svg {
+    color: var(--aurora-violet);
+  }
+  .icon-tile .label {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--smoke);
+  }
+
+  /* BUTTONS */
+  .btn-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+  .btn {
+    font-family: 'Geist', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 12px 22px;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    border: none;
+    letter-spacing: -0.005em;
+    transition: transform 0.2s cubic-bezier(.2,.8,.2,1), box-shadow 0.25s;
+  }
+  .btn:hover { transform: translateY(-1px); }
+  .btn-aurora {
+    color: var(--obsidian);
+    background: linear-gradient(135deg, var(--aurora-cyan), var(--aurora-violet));
+    box-shadow: 0 4px 18px -6px rgba(178,152,255,0.45);
+  }
+  .btn-ice { background: var(--ice); color: var(--obsidian); }
+  .btn-ghost {
+    background: transparent;
+    color: var(--ice);
+    border: 1px solid var(--hairline-2);
+  }
+  .btn-ink {
+    background: var(--ink);
+    color: var(--ice);
+  }
+  .btn-ghost-light {
+    background: transparent;
+    color: var(--ink);
+    border: 1px solid var(--rule-2);
+  }
+
+  /* RULES & ACCENTS */
+  .rule-aurora {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(80,220,255,0.40), rgba(168,100,255,0.45), transparent);
+  }
+  .accent-line {
+    height: 1.5px;
+    background: linear-gradient(90deg, var(--aurora-cyan), var(--aurora-violet));
+  }
+  .accent-row {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    background: var(--graphite);
+    border: 1px solid var(--hairline);
+    border-radius: 16px;
+    padding: 36px;
+  }
+  .accent-row > div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .accent-row .key {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--smoke);
+    width: 140px;
+    flex-shrink: 0;
+  }
+  .accent-row .demo { flex: 1; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 32px;
+    border-top: 1px solid var(--hairline);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  footer .left {
+    color: var(--smoke-2);
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  footer .right {
+    color: var(--smoke-2);
+    font-size: 12px;
+  }
+
+  @media (max-width: 720px) {
+    .container { padding: 56px 20px; }
+    header h1 { font-size: 56px; }
+    .marks { grid-template-columns: 1fr; }
+    .aurora-hero { grid-column: span 1; }
+    .type-card .sample-large { font-size: 44px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- HEADER -->
+  <header>
+    <div>
+      <div class="brand-row">
+        <svg class="brand-polygon" viewBox="0 0 14 14" aria-hidden="true">
+          <defs>
+            <linearGradient id="brand-grad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#6DD5FA" />
+              <stop offset="0.5" stop-color="#B298FF" />
+              <stop offset="1" stop-color="#E0E7FF" />
+            </linearGradient>
+          </defs>
+          <polygon points="7,1 13,5 7,13 1,5" fill="url(#brand-grad)" />
+        </svg>
+        <span class="name">Jeweler Studio</span>
+      </div>
+      <h1>The brand <em class="accent-italic">system.</em></h1>
+      <p>The complete typographic, color, and identity system for Jeweler Studio. Built for jewelers, for the modern custom-order pipeline.</p>
+    </div>
+    <div class="header-meta">
+      <div>Version · 1.0</div>
+      <div>System · Production</div>
+      <div>2026</div>
+    </div>
+  </header>
+
+  <!-- IDENTITY / VOICE -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">01 · Voice</span>
+        <h2 style="margin-top:10px;">The brand voice.</h2>
+      </div>
+      <p class="desc">Editorial-meets-tech. Statement-led headlines pair sans-serif intent with a serif italic gradient close. Period belongs inside the italic.</p>
+    </div>
+    <div class="voice-box">
+      <span class="voice-meta">Headline pattern</span>
+      <p class="voice-line display-sans">Built for <em class="accent-italic">both sides.</em></p>
+      <p class="voice-line display-sans">Jeweler Studio <em class="accent-italic">closes the sale.</em></p>
+      <p class="voice-line display-sans">The numbers <em class="accent-italic">don't lie.</em></p>
+      <p class="voice-line display-sans">Your current order form is <em class="accent-italic-red">losing money.</em></p>
+    </div>
+  </section>
+
+  <!-- TYPOGRAPHY -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">02 · Typography</span>
+        <h2 style="margin-top:10px;">Three families. One voice.</h2>
+      </div>
+      <p class="desc">Geist for clarity. Geist Mono for system labels. Instrument Serif italic for emotional accents in the brand gradient.</p>
+    </div>
+
+    <div class="type-grid">
+
+      <!-- INSTRUMENT SERIF -->
+      <div class="type-card">
+        <div class="label">
+          <span class="name">Instrument Serif · Italic</span>
+          <span class="meta">Display · Brand accent</span>
+        </div>
+        <div class="sample sample-large display">
+          From idea to <em class="accent-italic">deposit</em>.
+        </div>
+        <div class="weight-grid">
+          <span class="w">Italic</span>
+          <span class="glyph display" style="font-style:italic">Aa Gg Sale 0123</span>
+          <span class="num">400</span>
+        </div>
+        <div class="weight-grid" style="border-top:none; padding-top:0;">
+          <span class="w">Roman</span>
+          <span class="glyph display">Aa Gg Sale 0123</span>
+          <span class="num">400</span>
+        </div>
+      </div>
+
+      <!-- GEIST -->
+      <div class="type-card">
+        <div class="label">
+          <span class="name">Geist · Sans</span>
+          <span class="meta">Body · Display sans · UI</span>
+        </div>
+        <div class="sample sample-large display-sans">
+          A complete system. <span class="aurora-text" style="font-weight:600">One platform.</span>
+        </div>
+        <div class="weight-grid">
+          <span class="w">Light</span>
+          <span class="glyph" style="font-weight:300">Aa Gg Sale 0123</span>
+          <span class="num">300</span>
+        </div>
+        <div class="weight-grid" style="border-top:none; padding-top:0;">
+          <span class="w">Regular</span>
+          <span class="glyph" style="font-weight:400">Aa Gg Sale 0123</span>
+          <span class="num">400</span>
+        </div>
+        <div class="weight-grid" style="border-top:none; padding-top:0;">
+          <span class="w">Medium</span>
+          <span class="glyph" style="font-weight:500">Aa Gg Sale 0123</span>
+          <span class="num">500</span>
+        </div>
+        <div class="weight-grid" style="border-top:none; padding-top:0;">
+          <span class="w">Semi&nbsp;Bold</span>
+          <span class="glyph" style="font-weight:600">Aa Gg Sale 0123</span>
+          <span class="num">600</span>
+        </div>
+        <div class="weight-grid" style="border-top:none; padding-top:0;">
+          <span class="w">Bold</span>
+          <span class="glyph" style="font-weight:700">Aa Gg Sale 0123</span>
+          <span class="num">700</span>
+        </div>
+      </div>
+
+      <!-- GEIST MONO -->
+      <div class="type-card">
+        <div class="label">
+          <span class="name">Geist Mono</span>
+          <span class="meta">Eyebrow labels · Tabular numerics · Code</span>
+        </div>
+        <div class="sample mono" style="display:flex; gap:32px; align-items:baseline; flex-wrap:wrap;">
+          <span class="eyebrow-accent" style="font-size:14px;">The Solution</span>
+          <span class="mono" style="font-size:32px; color: var(--ice); font-weight:500;" class="tabular">$4,890</span>
+          <span class="mono" style="font-size:32px;" class="aurora-text tabular">+20x</span>
+        </div>
+        <div class="weight-grid">
+          <span class="w">Eyebrow</span>
+          <span class="glyph mono" style="font-size:11px; letter-spacing:0.14em; text-transform:uppercase; color:var(--smoke-2);">The Solution · 11px</span>
+          <span class="num">400 · 0.14em</span>
+        </div>
+        <div class="weight-grid" style="border-top:none; padding-top:0;">
+          <span class="w">Tabular</span>
+          <span class="glyph mono tabular" style="color:var(--ice);">$4,890.00 · 0123456789</span>
+          <span class="num">tnum</span>
+        </div>
+      </div>
+
+      <!-- TYPE SCALE -->
+      <div class="type-card">
+        <div class="label">
+          <span class="name">Type scale</span>
+          <span class="meta">Display · Heading · Body · Mono</span>
+        </div>
+        <div style="display:flex; flex-direction:column; gap:18px;">
+          <div style="display:flex; align-items:baseline; gap:24px; padding-bottom:12px; border-bottom:1px solid var(--hairline);">
+            <span class="display" style="font-size:88px; line-height:0.95;">Display</span>
+            <span class="mono" style="font-size:11px; color:var(--smoke-2); letter-spacing:0.1em;">Hero · 88–104px · serif</span>
+          </div>
+          <div style="display:flex; align-items:baseline; gap:24px; padding-bottom:12px; border-bottom:1px solid var(--hairline);">
+            <span class="display-sans" style="font-size:64px; line-height:0.96; font-weight:700;">Heading</span>
+            <span class="mono" style="font-size:11px; color:var(--smoke-2); letter-spacing:0.1em;">Section · 44–76px · Geist 700</span>
+          </div>
+          <div style="display:flex; align-items:baseline; gap:24px; padding-bottom:12px; border-bottom:1px solid var(--hairline);">
+            <span class="display-sans" style="font-size:32px; line-height:1.15; font-weight:600;">Subhead</span>
+            <span class="mono" style="font-size:11px; color:var(--smoke-2); letter-spacing:0.1em;">Within section · 24–32px · Geist 600</span>
+          </div>
+          <div style="display:flex; align-items:baseline; gap:24px; padding-bottom:12px; border-bottom:1px solid var(--hairline);">
+            <span style="font-size:18px; line-height:1.55; font-weight:400;">Body — quick reading</span>
+            <span class="mono" style="font-size:11px; color:var(--smoke-2); letter-spacing:0.1em;">Lede · 16–18px · Geist 400</span>
+          </div>
+          <div style="display:flex; align-items:baseline; gap:24px;">
+            <span class="eyebrow">Eyebrow Label</span>
+            <span class="mono" style="font-size:11px; color:var(--smoke-2); letter-spacing:0.1em;">Mono · 11px · 0.14em tracking</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- COLOR -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">03 · Color</span>
+        <h2 style="margin-top:10px;">The palette.</h2>
+      </div>
+      <p class="desc">Two surface systems (dark obsidian, light paper) anchored by one brand: aurora cyan→violet. Italic brand text is always the gradient.</p>
+    </div>
+
+    <!-- AURORA — BRAND -->
+    <div class="palette-group">
+      <div class="head">Aurora · Brand</div>
+      <div class="palette">
+        <div class="swatch aurora-hero" style="grid-column: span 2;">
+          <div class="chip" style="height:140px;"></div>
+          <div class="info">
+            <div class="name">Aurora · Cyan → Violet</div>
+            <div class="hex">linear-gradient(135deg, #6DD5FA, #B298FF)</div>
+          </div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#6DD5FA;"></div>
+          <div class="info"><div class="name">Aurora Cyan</div><div class="hex">#6DD5FA</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#B298FF;"></div>
+          <div class="info"><div class="name">Aurora Violet</div><div class="hex">#B298FF</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#E0E7FF;"></div>
+          <div class="info"><div class="name">Aurora Iris</div><div class="hex">#E0E7FF</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#D4B87A;"></div>
+          <div class="info"><div class="name">Champagne</div><div class="hex">#D4B87A</div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- DARK SURFACE -->
+    <div class="palette-group">
+      <div class="head">Dark surfaces · Hero, TrustedBy, drama islands</div>
+      <div class="palette">
+        <div class="swatch">
+          <div class="chip" style="background:#08090D;"></div>
+          <div class="info"><div class="name">Obsidian</div><div class="hex">#08090D</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#13151C;"></div>
+          <div class="info"><div class="name">Graphite</div><div class="hex">#13151C</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#181B24;"></div>
+          <div class="info"><div class="name">Graphite 2</div><div class="hex">#181B24</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#1E212A;"></div>
+          <div class="info"><div class="name">Hairline</div><div class="hex">#1E212A</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#262A35;"></div>
+          <div class="info"><div class="name">Hairline 2</div><div class="hex">#262A35</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#F5F6F8;"></div>
+          <div class="info"><div class="name">Ice</div><div class="hex">#F5F6F8</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#8A8E98;"></div>
+          <div class="info"><div class="name">Smoke</div><div class="hex">#8A8E98</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#5C6068;"></div>
+          <div class="info"><div class="name">Smoke 2</div><div class="hex">#5C6068</div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- LIGHT SURFACE -->
+    <div class="palette-group">
+      <div class="head">Light surfaces · After Trusted By</div>
+      <div class="palette">
+        <div class="swatch">
+          <div class="chip" style="background:#F5F6FA;"></div>
+          <div class="info"><div class="name">Paper</div><div class="hex">#F5F6FA</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#FFFFFF;"></div>
+          <div class="info"><div class="name">Paper 2</div><div class="hex">#FFFFFF</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#FAFBFD;"></div>
+          <div class="info"><div class="name">Paper 3</div><div class="hex">#FAFBFD</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#E8EAEE;"></div>
+          <div class="info"><div class="name">Rule</div><div class="hex">#E8EAEE</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#D6D9E0;"></div>
+          <div class="info"><div class="name">Rule 2</div><div class="hex">#D6D9E0</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#0A0B14;"></div>
+          <div class="info"><div class="name">Ink</div><div class="hex">#0A0B14</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#1A1F2E;"></div>
+          <div class="info"><div class="name">Ink 2</div><div class="hex">#1A1F2E</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#3A3F4D;"></div>
+          <div class="info"><div class="name">Ink 3</div><div class="hex">#3A3F4D</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#6B7080;"></div>
+          <div class="info"><div class="name">Ink Mute</div><div class="hex">#6B7080</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#9CA0AC;"></div>
+          <div class="info"><div class="name">Ink Faint</div><div class="hex">#9CA0AC</div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STATUS -->
+    <div class="palette-group">
+      <div class="head">Status</div>
+      <div class="palette">
+        <div class="swatch">
+          <div class="chip" style="background:#6BD3A3;"></div>
+          <div class="info"><div class="name">OK</div><div class="hex">#6BD3A3</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#E87A6D;"></div>
+          <div class="info"><div class="name">Bad</div><div class="hex">#E87A6D</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#FF5252;"></div>
+          <div class="info"><div class="name">Problem · Border</div><div class="hex">#FF5252</div></div>
+        </div>
+        <div class="swatch">
+          <div class="chip" style="background:#7A0F0F;"></div>
+          <div class="info"><div class="name">Problem · Dot</div><div class="hex">#7A0F0F</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BRAND MARK -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">04 · Mark</span>
+        <h2 style="margin-top:10px;">The brand mark.</h2>
+      </div>
+      <p class="desc">A four-point gem polygon, filled with the aurora gradient. Used wherever the brand presents itself as a system.</p>
+    </div>
+    <div class="marks">
+      <div class="mark-card">
+        <svg width="160" height="160" viewBox="0 0 14 14" aria-hidden="true">
+          <defs>
+            <linearGradient id="g-big" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#6DD5FA" />
+              <stop offset="0.5" stop-color="#B298FF" />
+              <stop offset="1" stop-color="#E0E7FF" />
+            </linearGradient>
+          </defs>
+          <polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" />
+        </svg>
+        <span class="eyebrow">polygon points 7,1 13,5 7,13 1,5</span>
+      </div>
+      <div class="mark-card">
+        <div class="mark-row">
+          <svg width="64" height="64" viewBox="0 0 14 14"><polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" /></svg>
+          <svg width="40" height="40" viewBox="0 0 14 14"><polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" /></svg>
+          <svg width="22" height="22" viewBox="0 0 14 14"><polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" /></svg>
+          <svg width="14" height="14" viewBox="0 0 14 14"><polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" /></svg>
+        </div>
+        <div class="mark-row">
+          <svg width="22" height="22" viewBox="0 0 14 14" style="background:#08090D; padding:6px; border-radius:6px;"><polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" /></svg>
+          <svg width="22" height="22" viewBox="0 0 14 14" style="background:#FFFFFF; padding:6px; border-radius:6px;"><polygon points="7,1 13,5 7,13 1,5" fill="url(#g-big)" /></svg>
+          <svg width="22" height="22" viewBox="0 0 14 14" style="background:linear-gradient(135deg,#6DD5FA,#B298FF); padding:6px; border-radius:6px;"><polygon points="7,1 13,5 7,13 1,5" fill="#08090D" /></svg>
+        </div>
+        <span class="eyebrow">scales · contexts</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ICONS -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">05 · Icons</span>
+        <h2 style="margin-top:10px;">Iconography.</h2>
+      </div>
+      <p class="desc">Powered by Lucide. Stroke 1.6–2.0px, monoline, no fills. Aurora violet for primary, smoke for muted.</p>
+    </div>
+    <div class="icon-grid">
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
+        <span class="label">Check</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
+        <span class="label">Copy</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+        <span class="label">Globe</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>
+        <span class="label">Flame</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 4 7.07 17 2.51-7.39L21 11.07z"/></svg>
+        <span class="label">Cursor</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+        <span class="label">Mail</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <span class="label">Lock</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+        <span class="label">Sparkles</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        <span class="label">Star</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2H2v10l9.29 9.29c.94.94 2.48.94 3.42 0l6.58-6.58c.94-.94.94-2.48 0-3.42L12 2Z"/><circle cx="7" cy="7" r="1"/></svg>
+        <span class="label">Tag</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        <span class="label">Arrow Right</span>
+      </div>
+      <div class="icon-tile">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg>
+        <span class="label">Circle</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ACCENTS -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">06 · Accents</span>
+        <h2 style="margin-top:10px;">Lines & accents.</h2>
+      </div>
+      <p class="desc">Aurora rules and accent lines structure the page. Eyebrows mark sections. Mono labels carry status.</p>
+    </div>
+    <div class="accent-row">
+      <div>
+        <span class="key">Accent line</span>
+        <div class="demo accent-line"></div>
+      </div>
+      <div>
+        <span class="key">Aurora rule</span>
+        <div class="demo rule-aurora"></div>
+      </div>
+      <div>
+        <span class="key">Eyebrow</span>
+        <div class="demo eyebrow">The Solution</div>
+      </div>
+      <div>
+        <span class="key">Eyebrow accent</span>
+        <div class="demo eyebrow-accent">Studio AI · Live</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BUTTONS -->
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="num">07 · CTAs</span>
+        <h2 style="margin-top:10px;">Buttons.</h2>
+      </div>
+      <p class="desc">Aurora gradient is the primary call-to-action; ghost/outline variants for secondary and inverse contexts.</p>
+    </div>
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:8px;">
+      <div style="background: var(--graphite); border:1px solid var(--hairline); border-radius:14px; padding:36px;">
+        <div class="eyebrow" style="margin-bottom:24px;">On dark</div>
+        <div class="btn-row">
+          <button class="btn btn-aurora">Book your free demo</button>
+          <button class="btn btn-ice">See it on your site</button>
+          <button class="btn btn-ghost">Talk to our team</button>
+        </div>
+      </div>
+      <div style="background: var(--paper); border:1px solid var(--rule-2); border-radius:14px; padding:36px;">
+        <div class="eyebrow" style="margin-bottom:24px; color: var(--ink-mute);">On light</div>
+        <div class="btn-row">
+          <button class="btn btn-aurora">Get an Instant Quote</button>
+          <button class="btn btn-ink">Join the waitlist</button>
+          <button class="btn btn-ghost-light">Talk to our team</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <span class="left">Jeweler Studio · Brand System · v1.0</span>
+    <span class="right">Built for jewelers. For jewelers.</span>
+  </footer>
+
+</div>
+</body>
+</html>
